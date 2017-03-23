@@ -1,0 +1,44 @@
+{
+    "id": "mijn.led.ringen",
+    "name": {
+        "en": "My LED Rings",
+        "nl": "Mijn LED Ringen"
+    },    
+    "version": "0.0.3",
+    "compatibility": "0.x || 1.x",
+    "author": {
+	"name": "HansieNL"
+    }, 
+    "dependencies": {
+    		"net": "*"
+    },
+	"screensavers": [
+	    {
+	        "name": "spectrum_dimmed",
+	        "title": { "en": "Spectrum Dimmed", "nl": "Spectrum Gedimd" }
+	    },
+	    {
+	        "name": "red_alert",
+	        "title": { "en": "Alert - Red", "nl": "Alarm - Rood" }
+	    },
+	    {
+	        "name": "blue_alert",
+	        "title": { "en": "Alert - Blue", "nl": "Alarm - Blauw" }
+	    },
+	    {
+	        "name": "led_flash_white",
+	        "title": { "en": "Flash - White", "nl": "Flits - Wit" }
+	    },
+	    {
+	        "name": "led_flash_red",
+	        "title": { "en": "Flash - Red", "nl": "Flits - Rood" }
+	    },
+	    {
+	        "name": "led_solid_red",
+	        "title": { "en": "Solid - Red", "nl": "Effen - Rood" }
+	    }
+	],
+	"permissions": [
+		"homey:manager:ledring"
+	]
+}
