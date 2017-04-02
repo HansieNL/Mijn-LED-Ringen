@@ -1,5 +1,5 @@
 ### Mijn LED Ringen
-Is a remake of [Screensavers for Homey by Martens](https://github.com/kruimel0/martens-screensaver) and [LED Ring patterns for Homey](https://github.com/OpenMindNL/ledcollection)
+Is a remake of [Screensavers for Homey by Martens](https://github.com/kruimel0/martens-screensavers) and [LED Ring patterns for Homey](https://github.com/OpenMindNL/ledcollection)
 
 **LED Ring displays included:**
 - Spectrum Dimmed / Spectrum gedimd (Rainbow on 10% intensity)
